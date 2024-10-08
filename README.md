@@ -19,7 +19,7 @@ This project applies machine learning models to classify text as either positive
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Sentiment-Analysis-ML-NLP.git
+   git clone https://github.com/saim-honey388/Sentiment-Analysis-ML-NLP.git
    cd Sentiment-Analysis-ML-NLP
     ```
 
